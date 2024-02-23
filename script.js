@@ -1,3 +1,2 @@
-function body {
-  window.alert("Most mér ne tegyek bele lopásgátlot? amúgy se tudják kiszedni");
-}
+document.addEventListener("click", function() {
+    window.location.href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
