@@ -1,3 +1,3 @@
 function titok() {
-  window.alert("Most mér ne tegyek bele lopásgátlot? amúgy se tudják kiszedni");
+  window.alert("Most miért ne tegyek bele lopásgátlót? Amúgy se tudjátok kiszedni.");
 }
